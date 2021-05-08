@@ -1,7 +1,5 @@
-* [面白そうなサイト](http://utsukemononi.gozaru.jp/gc/sdl/index.html)
-
 ## Visual Studio 2019 で 環境構築
-* [参考にしたサイト](https://papersloth.hatenablog.com/entry/2019/01/22/225257)
+* [参考サイト](https://papersloth.hatenablog.com/entry/2019/01/22/225257)
 
 1. SDL2 の準備
   * 公式からDL&解答
